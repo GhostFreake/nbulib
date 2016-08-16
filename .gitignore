@@ -1,0 +1,8 @@
+**/packages
+**/obj
+**/bin
+**/dm.xml
+**/modules.config
+**/textresources.xml
+**/viewdefinitionstore.xml
+**/Logs
