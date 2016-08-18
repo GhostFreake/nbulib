@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbuLibrary.Core.Services", "NbuLibrary.Core.Services\NbuLibrary.Core.Services.csproj", "{D81E078D-3B43-4C20-8F40-C5610ACDD7B7}"
 EndProject
@@ -67,90 +67,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbuLibrary.Core.Reporting", "NbuLibrary.Core.Reporting\NbuLibrary.Core.Reporting.csproj", "{BC48B2D8-6F5A-4596-BFF6-E38125CC0824}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbuLibrary.Modules.DocDelivery", "NbuLibrary.Modules.DocDelivery\NbuLibrary.Modules.DocDelivery.csproj", "{1DCE5131-2631-4597-9628-896FB125D73F}"
+EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 23
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs29
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = NbuLibrary.Core.Domain\\NbuLibrary.Core.Domain.csproj
-		SccProjectName1 = NbuLibrary.Core.Domain
-		SccLocalPath1 = NbuLibrary.Core.Domain
-		SccProjectUniqueName2 = NbuLibrary.Core.Infrastructure\\NbuLibrary.Core.Infrastructure.csproj
-		SccProjectName2 = NbuLibrary.Core.Infrastructure
-		SccLocalPath2 = NbuLibrary.Core.Infrastructure
-		SccProjectUniqueName3 = NbuLibrary.Test.EntityLogic\\NbuLibrary.Test.EntityLogic.csproj
-		SccProjectName3 = NbuLibrary.Test.EntityLogic
-		SccLocalPath3 = NbuLibrary.Test.EntityLogic
-		SccProjectUniqueName4 = NbuLibrary.Core.Kernel\\NbuLibrary.Core.Kernel.csproj
-		SccProjectName4 = NbuLibrary.Core.Kernel
-		SccLocalPath4 = NbuLibrary.Core.Kernel
-		SccProjectUniqueName5 = NbuLibrary.Web\\NbuLibrary.Web.csproj
-		SccProjectName5 = NbuLibrary.Web
-		SccLocalPath5 = NbuLibrary.Web
-		SccProjectUniqueName6 = NbuLibrary.Core.AccountModule\\NbuLibrary.Core.AccountModule.csproj
-		SccProjectTopLevelParentUniqueName6 = NbuLibrary.sln
-		SccProjectName6 = NbuLibrary.Core.AccountModule
-		SccLocalPath6 = NbuLibrary.Core.AccountModule
-		SccProjectUniqueName7 = NbuLibrary.Core.NomenclatureModule\\NbuLibrary.Core.NomenclatureModule.csproj
-		SccProjectTopLevelParentUniqueName7 = NbuLibrary.sln
-		SccProjectName7 = NbuLibrary.Core.NomenclatureModule
-		SccLocalPath7 = NbuLibrary.Core.NomenclatureModule
-		SccProjectUniqueName8 = NbuLibrary.Modules.AskTheLib\\NbuLibrary.Modules.AskTheLib.csproj
-		SccProjectTopLevelParentUniqueName8 = NbuLibrary.sln
-		SccProjectName8 = NbuLibrary.Modules.AskTheLib
-		SccLocalPath8 = NbuLibrary.Modules.AskTheLib
-		SccProjectUniqueName9 = NbuLibrary.Core.Sql\\NbuLibrary.Core.Sql.csproj
-		SccProjectName9 = NbuLibrary.Core.Sql
-		SccLocalPath9 = NbuLibrary.Core.Sql
-		SccProjectUniqueName10 = NbuLibrary.Core.NotificationModule\\NbuLibrary.Core.NotificationModule.csproj
-		SccProjectTopLevelParentUniqueName10 = NbuLibrary.sln
-		SccProjectName10 = NbuLibrary.Core.NotificationModule
-		SccLocalPath10 = NbuLibrary.Core.NotificationModule
-		SccProjectUniqueName11 = NbuLibrary.Modules.MyMagazines\\NbuLibrary.Modules.MyMagazines.csproj
-		SccProjectTopLevelParentUniqueName11 = NbuLibrary.sln
-		SccProjectName11 = NbuLibrary.Modules.MyMagazines
-		SccLocalPath11 = NbuLibrary.Modules.MyMagazines
-		SccProjectUniqueName12 = NbuLibrary.Core.DataModel\\NbuLibrary.Core.DataModel.csproj
-		SccProjectName12 = NbuLibrary.Core.DataModel
-		SccLocalPath12 = NbuLibrary.Core.DataModel
-		SccProjectUniqueName13 = NbuLibrary.Core.FilesModule\\NbuLibrary.Core.FilesModule.csproj
-		SccProjectTopLevelParentUniqueName13 = NbuLibrary.sln
-		SccProjectName13 = NbuLibrary.Core.FilesModule
-		SccLocalPath13 = NbuLibrary.Core.FilesModule
-		SccProjectUniqueName14 = NbuLibrary.Modules.BiblRef\\NbuLibrary.Modules.BiblRef.csproj
-		SccProjectTopLevelParentUniqueName14 = NbuLibrary.sln
-		SccProjectName14 = NbuLibrary.Modules.BiblRef
-		SccLocalPath14 = NbuLibrary.Modules.BiblRef
-		SccProjectUniqueName15 = NbuLibrary.Core.FinanceModule\\NbuLibrary.Core.FinanceModule.csproj
-		SccProjectTopLevelParentUniqueName15 = NbuLibrary.sln
-		SccProjectName15 = NbuLibrary.Core.FinanceModule
-		SccLocalPath15 = NbuLibrary.Core.FinanceModule
-		SccProjectUniqueName16 = NbuLibrary.Modules.BiblList\\NbuLibrary.Modules.BiblList.csproj
-		SccProjectTopLevelParentUniqueName16 = NbuLibrary.sln
-		SccProjectName16 = NbuLibrary.Modules.BiblList
-		SccLocalPath16 = NbuLibrary.Modules.BiblList
-		SccProjectUniqueName17 = NbuLibrary.Modules.RefAnalysis\\NbuLibrary.Modules.RefAnalysis.csproj
-		SccProjectTopLevelParentUniqueName17 = NbuLibrary.sln
-		SccProjectName17 = NbuLibrary.Modules.RefAnalysis
-		SccLocalPath17 = NbuLibrary.Modules.RefAnalysis
-		SccProjectUniqueName18 = NbuLibrary.Core.HistoryModule\\NbuLibrary.Core.HistoryModule.csproj
-		SccProjectTopLevelParentUniqueName18 = NbuLibrary.sln
-		SccProjectName18 = NbuLibrary.Core.HistoryModule
-		SccLocalPath18 = NbuLibrary.Core.HistoryModule
-		SccProjectUniqueName19 = NbuLibrary.Architecture\\NbuLibrary.Architecture.modelproj
-		SccProjectName19 = NbuLibrary.Architecture
-		SccLocalPath19 = NbuLibrary.Architecture
-		SccProjectUniqueName20 = NbuLibrary.Tests.Performance\\NbuLibrary.Tests.Performance.csproj
-		SccProjectName20 = NbuLibrary.Tests.Performance
-		SccLocalPath20 = NbuLibrary.Tests.Performance
-		SccProjectUniqueName21 = NbuLibrary.Core.Services\\NbuLibrary.Core.Services.csproj
-		SccProjectName21 = NbuLibrary.Core.Services
-		SccLocalPath21 = NbuLibrary.Core.Services
-		SccProjectUniqueName22 = NbuLibrary.Core.Reporting\\NbuLibrary.Core.Reporting.csproj
-		SccProjectName22 = NbuLibrary.Core.Reporting
-		SccLocalPath22 = NbuLibrary.Core.Reporting
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -244,6 +163,10 @@ Global
 		{BC48B2D8-6F5A-4596-BFF6-E38125CC0824}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC48B2D8-6F5A-4596-BFF6-E38125CC0824}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC48B2D8-6F5A-4596-BFF6-E38125CC0824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DCE5131-2631-4597-9628-896FB125D73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCE5131-2631-4597-9628-896FB125D73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCE5131-2631-4597-9628-896FB125D73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCE5131-2631-4597-9628-896FB125D73F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -252,7 +175,6 @@ Global
 		{5CCFB8CD-1007-4DDF-B95A-C386C7D9EA57} = {CD51EB8F-3D03-4311-AB43-A39B342CB583}
 		{F1DED2E9-DD91-47F4-A194-DCA25F2BFB02} = {CD51EB8F-3D03-4311-AB43-A39B342CB583}
 		{7878D534-08D2-47E5-BB26-51292751ACC7} = {CD51EB8F-3D03-4311-AB43-A39B342CB583}
-		{DEA082D6-4609-4EEE-A4F9-0CF27D62FEF1} = {03E7CFCE-C86E-4902-97D6-B394DD3F6CBD}
 		{204252EA-B8BE-48A5-8609-30E5266BB491} = {CD51EB8F-3D03-4311-AB43-A39B342CB583}
 		{ABF1FE63-B192-4D24-9173-B4E9E1E77367} = {CD51EB8F-3D03-4311-AB43-A39B342CB583}
 		{DC74E73A-E59A-4F0B-AF29-46B1F8CCEF4C} = {CD51EB8F-3D03-4311-AB43-A39B342CB583}
@@ -261,6 +183,8 @@ Global
 		{0419B695-1BF8-4C4B-95C5-DAA86DB14FE4} = {CD51EB8F-3D03-4311-AB43-A39B342CB583}
 		{762B01DE-E5BE-4894-A828-05ACAA28CD81} = {CD51EB8F-3D03-4311-AB43-A39B342CB583}
 		{3FCA80CB-0074-4D08-9141-72B2E7837EE6} = {CD51EB8F-3D03-4311-AB43-A39B342CB583}
+		{1DCE5131-2631-4597-9628-896FB125D73F} = {CD51EB8F-3D03-4311-AB43-A39B342CB583}
+		{DEA082D6-4609-4EEE-A4F9-0CF27D62FEF1} = {03E7CFCE-C86E-4902-97D6-B394DD3F6CBD}
 	EndGlobalSection
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = NbuLibrary.vsmdi
