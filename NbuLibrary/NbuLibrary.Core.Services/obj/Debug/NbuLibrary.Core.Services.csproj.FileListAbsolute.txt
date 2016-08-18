@@ -1,0 +1,10 @@
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\NbuLibrary.Core.Services.dll
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\NbuLibrary.Core.Services.pdb
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\NbuLibrary.Core.DataModel.dll
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\NbuLibrary.Core.Domain.dll
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\NbuLibrary.Core.DataModel.pdb
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\NbuLibrary.Core.Domain.pdb
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Services\obj\Debug\NbuLibrary.Core.Services.csprojResolveAssemblyReference.cache
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Services\obj\Debug\NbuLibrary.Core.Services.dll
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Services\obj\Debug\NbuLibrary.Core.Services.pdb

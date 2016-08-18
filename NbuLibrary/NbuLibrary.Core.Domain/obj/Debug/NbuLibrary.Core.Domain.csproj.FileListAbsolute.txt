@@ -1,0 +1,7 @@
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Domain\bin\Debug\NbuLibrary.Core.Domain.dll
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Domain\bin\Debug\NbuLibrary.Core.Domain.pdb
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Domain\bin\Debug\NbuLibrary.Core.DataModel.dll
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Domain\bin\Debug\NbuLibrary.Core.DataModel.pdb
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Domain\obj\Debug\NbuLibrary.Core.Domain.csprojResolveAssemblyReference.cache
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Domain\obj\Debug\NbuLibrary.Core.Domain.dll
+D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Domain\obj\Debug\NbuLibrary.Core.Domain.pdb
