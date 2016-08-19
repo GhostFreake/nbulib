@@ -8,3 +8,16 @@ D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\NbuLibrary.Core.Doma
 D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Services\obj\Debug\NbuLibrary.Core.Services.csprojResolveAssemblyReference.cache
 D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Services\obj\Debug\NbuLibrary.Core.Services.dll
 D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Services\obj\Debug\NbuLibrary.Core.Services.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\NbuLibrary.Core.Services.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\NbuLibrary.Core.Services.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\NbuLibrary.Core.DataModel.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\NbuLibrary.Core.Domain.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\Ninject.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\NbuLibrary.Core.DataModel.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\NbuLibrary.Core.Domain.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Services\bin\Debug\Ninject.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Services\obj\Debug\NbuLibrary.Core.Services.csprojResolveAssemblyReference.cache
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Services\obj\Debug\NbuLibrary.Core.Services.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Services\obj\Debug\NbuLibrary.Core.Services.pdb

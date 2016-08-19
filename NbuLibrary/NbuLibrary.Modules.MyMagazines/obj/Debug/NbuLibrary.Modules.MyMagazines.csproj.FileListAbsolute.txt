@@ -1,0 +1,15 @@
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\bin\Debug\NbuLibrary.Modules.MyMagazines.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\bin\Debug\NbuLibrary.Modules.MyMagazines.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\bin\Debug\NbuLibrary.Core.DataModel.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\bin\Debug\NbuLibrary.Core.Domain.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\bin\Debug\NbuLibrary.Core.Services.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\bin\Debug\Ninject.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\bin\Debug\NbuLibrary.Core.DataModel.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\bin\Debug\NbuLibrary.Core.Domain.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\bin\Debug\NbuLibrary.Core.Services.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\bin\Debug\Ninject.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\obj\Debug\NbuLibrary.Modules.MyMagazines.csprojResolveAssemblyReference.cache
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\obj\Debug\NbuLibrary.Modules.MyMagazines.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.MyMagazines\obj\Debug\NbuLibrary.Modules.MyMagazines.pdb

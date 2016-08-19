@@ -1,0 +1,7 @@
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Sql\bin\Debug\NbuLibrary.Core.Sql.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Sql\bin\Debug\NbuLibrary.Core.Sql.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Sql\bin\Debug\Ninject.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Sql\bin\Debug\Ninject.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Sql\obj\Debug\NbuLibrary.Core.Sql.csprojResolveAssemblyReference.cache
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Sql\obj\Debug\NbuLibrary.Core.Sql.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Sql\obj\Debug\NbuLibrary.Core.Sql.pdb

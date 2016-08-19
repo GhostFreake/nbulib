@@ -3,3 +3,10 @@ D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.DataModel\bin\Debug\NbuLibrary.Core.Dat
 D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.DataModel\obj\Debug\NbuLibrary.Core.DataModel.csprojResolveAssemblyReference.cache
 D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.DataModel\obj\Debug\NbuLibrary.Core.DataModel.dll
 D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.DataModel\obj\Debug\NbuLibrary.Core.DataModel.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.DataModel\bin\Debug\NbuLibrary.Core.DataModel.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.DataModel\bin\Debug\NbuLibrary.Core.DataModel.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.DataModel\bin\Debug\Ninject.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.DataModel\bin\Debug\Ninject.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.DataModel\obj\Debug\NbuLibrary.Core.DataModel.csprojResolveAssemblyReference.cache
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.DataModel\obj\Debug\NbuLibrary.Core.DataModel.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.DataModel\obj\Debug\NbuLibrary.Core.DataModel.pdb

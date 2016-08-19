@@ -1,0 +1,17 @@
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\bin\Debug\NbuLibrary.Core.Infrastructure.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\bin\Debug\NbuLibrary.Core.Infrastructure.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\bin\Debug\NbuLibrary.Core.DataModel.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\bin\Debug\NbuLibrary.Core.Domain.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\bin\Debug\NbuLibrary.Core.Services.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\bin\Debug\NbuLibrary.Core.Sql.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\bin\Debug\Ninject.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\bin\Debug\NbuLibrary.Core.DataModel.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\bin\Debug\NbuLibrary.Core.Domain.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\bin\Debug\NbuLibrary.Core.Services.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\bin\Debug\NbuLibrary.Core.Sql.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\bin\Debug\Ninject.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\obj\Debug\NbuLibrary.Core.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\obj\Debug\NbuLibrary.Core.Infrastructure.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Infrastructure\obj\Debug\NbuLibrary.Core.Infrastructure.pdb

@@ -1,0 +1,7 @@
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Kernel\bin\Debug\NbuLibrary.Core.Kernel.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Kernel\bin\Debug\NbuLibrary.Core.Kernel.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Kernel\bin\Debug\Ninject.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Kernel\bin\Debug\Ninject.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Kernel\obj\Debug\NbuLibrary.Core.Kernel.csprojResolveAssemblyReference.cache
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Kernel\obj\Debug\NbuLibrary.Core.Kernel.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Kernel\obj\Debug\NbuLibrary.Core.Kernel.pdb

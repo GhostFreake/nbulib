@@ -5,3 +5,12 @@ D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Domain\bin\Debug\NbuLibrary.Core.DataMo
 D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Domain\obj\Debug\NbuLibrary.Core.Domain.csprojResolveAssemblyReference.cache
 D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Domain\obj\Debug\NbuLibrary.Core.Domain.dll
 D:\Git\nbulib\NbuLibrary\NbuLibrary.Core.Domain\obj\Debug\NbuLibrary.Core.Domain.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Domain\bin\Debug\NbuLibrary.Core.Domain.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Domain\bin\Debug\NbuLibrary.Core.Domain.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Domain\bin\Debug\NbuLibrary.Core.DataModel.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Domain\bin\Debug\Ninject.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Domain\bin\Debug\NbuLibrary.Core.DataModel.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Domain\bin\Debug\Ninject.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Domain\obj\Debug\NbuLibrary.Core.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Domain\obj\Debug\NbuLibrary.Core.Domain.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Core.Domain\obj\Debug\NbuLibrary.Core.Domain.pdb

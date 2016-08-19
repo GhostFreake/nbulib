@@ -1,0 +1,26 @@
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\Librarian_Query.webtest
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\Customer_Query.webtest
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\LoadTest1.loadtest
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\sample - Copy (3).pdf
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Tests.Performance.dll.config
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Tests.Performance.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Tests.Performance.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Core.DataModel.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Core.Domain.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Core.Infrastructure.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Core.Reporting.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Core.Services.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\Ninject.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Core.Sql.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Core.DataModel.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Core.Domain.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Core.Infrastructure.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Core.Reporting.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Core.Services.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\Ninject.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\NbuLibrary.Core.Sql.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\obj\Debug\NbuLibrary.Tests.Performance.csprojResolveAssemblyReference.cache
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\obj\Debug\NbuLibrary.Tests.Performance.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Tests.Performance\obj\Debug\NbuLibrary.Tests.Performance.pdb

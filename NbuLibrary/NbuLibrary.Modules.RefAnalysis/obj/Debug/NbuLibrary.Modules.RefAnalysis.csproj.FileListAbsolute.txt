@@ -1,0 +1,14 @@
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.RefAnalysis\bin\Debug\NbuLibrary.Modules.RefAnalysis.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.RefAnalysis\bin\Debug\NbuLibrary.Modules.RefAnalysis.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.RefAnalysis\bin\Debug\NbuLibrary.Core.DataModel.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.RefAnalysis\bin\Debug\NbuLibrary.Core.Domain.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.RefAnalysis\bin\Debug\NbuLibrary.Core.Services.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.RefAnalysis\bin\Debug\Ninject.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.RefAnalysis\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.RefAnalysis\bin\Debug\NbuLibrary.Core.DataModel.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.RefAnalysis\bin\Debug\NbuLibrary.Core.Domain.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.RefAnalysis\bin\Debug\NbuLibrary.Core.Services.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.RefAnalysis\bin\Debug\Ninject.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.RefAnalysis\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.RefAnalysis\obj\Debug\NbuLibrary.Modules.RefAnalysis.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.RefAnalysis\obj\Debug\NbuLibrary.Modules.RefAnalysis.pdb

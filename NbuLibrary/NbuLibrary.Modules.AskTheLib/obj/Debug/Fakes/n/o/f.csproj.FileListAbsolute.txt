@@ -1,0 +1,17 @@
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\b\Ninject.Fakes.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\b\Ninject.Fakes.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\b\Ninject.Fakes.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\b\NbuLibrary.Core.DataModel.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\b\NbuLibrary.Core.Domain.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\b\NbuLibrary.Core.Services.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\b\Newtonsoft.Json.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\b\Ninject.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\b\Ninject.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\b\NbuLibrary.Core.DataModel.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\b\NbuLibrary.Core.Domain.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\b\NbuLibrary.Core.Services.pdb
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\b\Newtonsoft.Json.xml
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\o\f.csprojResolveAssemblyReference.cache
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\o\Ninject.Fakes.dll
+D:\Projects\nbulib\NbuLibrary\NbuLibrary.Modules.AskTheLib\obj\Debug\Fakes\n\o\Ninject.Fakes.pdb
